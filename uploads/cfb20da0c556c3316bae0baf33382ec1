@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\moham\\Desktop\\Virtual_GirlFriend\\r3f-virtual-girlfriend-backend-main\\audios\\message_0.wav",
+    "duration": 3.18
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.16, "value": "X" },
+    { "start": 0.16, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.34, "value": "C" },
+    { "start": 0.34, "end": 0.42, "value": "A" },
+    { "start": 0.42, "end": 0.55, "value": "C" },
+    { "start": 0.55, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.70, "value": "A" },
+    { "start": 0.70, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.87, "value": "C" },
+    { "start": 0.87, "end": 0.94, "value": "B" },
+    { "start": 0.94, "end": 1.15, "value": "C" },
+    { "start": 1.15, "end": 1.25, "value": "A" },
+    { "start": 1.25, "end": 1.42, "value": "C" },
+    { "start": 1.42, "end": 2.27, "value": "B" },
+    { "start": 2.27, "end": 2.34, "value": "C" },
+    { "start": 2.34, "end": 2.42, "value": "A" },
+    { "start": 2.42, "end": 2.80, "value": "C" },
+    { "start": 2.80, "end": 2.94, "value": "B" },
+    { "start": 2.94, "end": 3.18, "value": "X" }
+  ]
+}

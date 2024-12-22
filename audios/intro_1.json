@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\moham\\Desktop\\audio\\intro_1.wav",
+    "duration": 3.10
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.09, "value": "C" },
+    { "start": 0.09, "end": 0.23, "value": "B" },
+    { "start": 0.23, "end": 0.31, "value": "A" },
+    { "start": 0.31, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.60, "value": "F" },
+    { "start": 0.60, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.74, "value": "E" },
+    { "start": 0.74, "end": 0.82, "value": "A" },
+    { "start": 0.82, "end": 0.98, "value": "F" },
+    { "start": 0.98, "end": 1.09, "value": "A" },
+    { "start": 1.09, "end": 1.24, "value": "B" },
+    { "start": 1.24, "end": 1.31, "value": "C" },
+    { "start": 1.31, "end": 1.59, "value": "F" },
+    { "start": 1.59, "end": 1.66, "value": "B" },
+    { "start": 1.66, "end": 1.74, "value": "A" },
+    { "start": 1.74, "end": 1.90, "value": "C" },
+    { "start": 1.90, "end": 2.11, "value": "B" },
+    { "start": 2.11, "end": 2.18, "value": "A" },
+    { "start": 2.18, "end": 2.38, "value": "C" },
+    { "start": 2.38, "end": 2.87, "value": "B" },
+    { "start": 2.87, "end": 3.10, "value": "X" }
+  ]
+}
